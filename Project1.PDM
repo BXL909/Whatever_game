@@ -1,0 +1,241 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=I:\Documents and Settings\All Users\Desktop\assemble
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+backdrop.BMP=C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop.BMP
+
+[Package|Standard Setup Package 1|Files Released]
+backdrop2.bmp=
+warning.wav=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+I:\WINDOWS\system32\dx7vb.dll=
+C:\WINDOWS\system32\dx7vb.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+backdrop.bmp=
+backdrop3.bmp=
+collected.wav=
+crashed.wav=
+itemappears.wav=
+landed.wav=
+newscientist.wav=
+takeoff.wav=
+thrust.wav=
+tractorbeam.wav=
+warning2.wav=
+gotscientist.wav=
+vault.wav=
+slidingdoor.wav=
+shoot.wav=
+gateopen.wav=
+denied.wav=
+music1.wav=
+backdrop4.bmp=
+c:\documents and settings\ben locke\my documents\my game\backdrop2.bmp=
+explos.wav=
+landed2.wav=
+photon.wav=
+
+[Package|Standard Setup Package 1|Files Removed]
+i:\documents and settings\ben locke\my documents\my game\backdrop3.bmp=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\Project1.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\dx7vb.dll=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop.BMP=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop3.bmp=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\collected.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\crashed.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\itemappears.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\landed.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\newscientist.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\takeoff.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\thrust.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\tractorbeam.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\warning2.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\gotscientist.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\vault.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\slidingdoor.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\shoot.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\gateopen.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\denied.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\music1.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop4.bmp=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\explos.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\landed2.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\photon.wav=Yes
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop2.bmp=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+I:\Documents and Settings\Ben Locke\My Documents\my game\Project1.exe=$(AppPath)
+I:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+I:\WINDOWS\system32\dx7vb.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+I:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop.BMP=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop2.bmp=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop3.bmp=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\collected.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\crashed.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\itemappears.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\landed.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\newscientist.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\takeoff.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\thrust.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\tractorbeam.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\warning.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\warning2.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\gotscientist.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\vault.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\slidingdoor.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\shoot.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\gateopen.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\denied.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\music1.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop4.bmp=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\explos.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\landed2.wav=$(AppPath)
+I:\Documents and Settings\Ben Locke\My Documents\my game\photon.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\Project1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\dx7vb.dll=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop.BMP=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop3.bmp=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\collected.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\crashed.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\itemappears.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\landed.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\newscientist.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\takeoff.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\thrust.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\tractorbeam.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\warning2.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\gotscientist.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\vault.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\slidingdoor.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\shoot.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\gateopen.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\denied.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\music1.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop4.bmp=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\explos.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\landed2.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\photon.wav=$(AppPath)
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop2.bmp=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+I:\Documents and Settings\Ben Locke\My Documents\my game\Project1.exe=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop.BMP=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop2.bmp=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop3.bmp=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\collected.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\crashed.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\itemappears.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\landed.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\newscientist.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\takeoff.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\thrust.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\tractorbeam.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\warning.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\warning2.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\gotscientist.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\vault.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\slidingdoor.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\shoot.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\gateopen.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\denied.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\music1.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\backdrop4.bmp=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\explos.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\landed2.wav=No
+I:\Documents and Settings\Ben Locke\My Documents\my game\photon.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\Project1.exe=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop.BMP=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop3.bmp=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\collected.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\crashed.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\itemappears.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\landed.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\newscientist.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\takeoff.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\thrust.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\tractorbeam.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\warning2.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\gotscientist.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\vault.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\slidingdoor.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\shoot.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\gateopen.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\denied.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\music1.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop4.bmp=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\explos.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\landed2.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\photon.wav=No
+C:\Documents and Settings\Ben Locke\My Documents\my game\backdrop2.bmp=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Whatever
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Whatever
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Whatever]
+Icon1=Project1.exe
+Title1=Whatever
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=I:\Documents and Settings\All Users\Desktop\assemble
+ProjectFolder=C:\Documents and Settings\Ben Locke\My Documents\my game
+ServerSideCab=
+File1=I:\Documents and Settings\All Users\Desktop\assemble\setup.exe
+File2=I:\Documents and Settings\All Users\Desktop\assemble\Setup.Lst
+File3=I:\Documents and Settings\All Users\Desktop\assemble\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
